@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAG6R0bv7UUKbop3Leq4npgAAAAACAAAAAAAQZgAAAAEAACAAAAAmZybvvep9iEWPy0bDnwYnSSaKx/fYUI46/abGeEfcsQAAAAAOgAAAAAIAACAAAAA6dLfy0qdEaJcu3g8+Hw2bQ4ZlUFJOQhaJouALYJa2bCAAAAAQKFDM81Ydi1UnTatVUEdHSO5g/3vfkudGhrWLJNH27EAAAACZWBDAubjsQ1HDejwEnJVnMq1oWXdRpNF4ihw2kEqL9J14To6jV6ro7aseedy91MltvLrjyl+jDHlJIHhRlzt4</EncryptedPassword>
+    <_PublishTargetUrl>ftp://bmpnest.com/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/14/2016 01:35:56</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>02/24/2016 06:55:12</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>02/24/2016 06:55:12</publishTime>
+    </File>
+    <File Include="bin/BMP.dll">
+      <publishTime>02/24/2016 06:54:52</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>02/14/2016 01:34:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Administration.dll">
+      <publishTime>02/14/2016 02:04:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/14/2016 01:34:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>02/14/2016 01:35:18</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/14/2016 01:34:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>07/10/2012 13:03:34</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/14/2016 01:35:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/14/2016 01:35:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>02/14/2016 01:35:38</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/14/2016 01:35:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>02/14/2016 01:35:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>02/14/2016 01:35:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>02/14/2016 01:35:14</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>02/14/2016 01:35:58</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.Data.dll">
+      <publishTime>07/10/2012 13:03:34</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.WebData.dll">
+      <publishTime>07/10/2012 13:03:36</publishTime>
+    </File>
+    <File Include="BMP.edmx.diagram">
+      <publishTime>02/24/2016 04:25:40</publishTime>
+    </File>
+    <File Include="Bootstrap3/article.html">
+      <publishTime>01/20/2016 14:06:50</publishTime>
+    </File>
+    <File Include="Bootstrap3/carousel.html">
+      <publishTime>01/20/2016 14:06:50</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/bootstrap-theme.css">
+      <publishTime>01/20/2016 14:06:52</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/bootstrap-theme.css.map">
+      <publishTime>01/20/2016 14:06:54</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/bootstrap-theme.min.css">
+      <publishTime>01/20/2016 14:06:54</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/bootstrap.css">
+      <publishTime>01/20/2016 14:06:54</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/bootstrap.css.map">
+      <publishTime>01/20/2016 14:06:54</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/bootstrap.min.css">
+      <publishTime>01/20/2016 14:06:56</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/offcanvas.css">
+      <publishTime>01/20/2016 14:06:56</publishTime>
+    </File>
+    <File Include="Bootstrap3/css/styles.css">
+      <publishTime>01/20/2016 14:06:56</publishTime>
+    </File>
+    <File Include="Bootstrap3/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/20/2016 14:06:58</publishTime>
+    </File>
+    <File Include="Bootstrap3/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/20/2016 14:07:00</publishTime>
+    </File>
+    <File Include="Bootstrap3/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/20/2016 14:07:00</publishTime>
+    </File>
+    <File Include="Bootstrap3/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/20/2016 14:07:00</publishTime>
+    </File>
+    <File Include="Bootstrap3/footer.html">
+      <publishTime>01/20/2016 14:06:50</publishTime>
+    </File>
+    <File Include="Bootstrap3/grid.html">
+      <publishTime>01/20/2016 14:06:50</publishTime>
+    </File>
+    <File Include="Bootstrap3/img/cyborg0.jpg">
+      <publishTime>01/20/2016 14:07:00</publishTime>
+    </File>
+    <File Include="Bootstrap3/img/cyborg1.jpg">
+      <publishTime>01/20/2016 14:07:00</publishTime>
+    </File>
+    <File Include="Bootstrap3/img/cyborg2.jpg">
+      <publishTime>01/20/2016 14:07:02</publishTime>
+    </File>
+    <File Include="Bootstrap3/img/cyborg3.jpg">
+      <publishTime>01/20/2016 14:07:02</publishTime>
+    </File>
+    <File Include="Bootstrap3/img/cyborg4.jpg">
+      <publishTime>01/20/2016 14:07:02</publishTime>
+    </File>
+    <File Include="Bootstrap3/img/CyborgBanner2.png">
+      <publishTime>01/20/2016 14:07:02</publishTime>
+    </File>
+    <File Include="Bootstrap3/index.html">
+      <publishTime>01/20/2016 14:06:52</publishTime>
+    </File>
+    <File Include="Bootstrap3/js/bootstrap.js">
+      <publishTime>01/20/2016 14:07:02</publishTime>
+    </File>
+    <File Include="Bootstrap3/js/bootstrap.min.js">
+      <publishTime>01/20/2016 14:07:02</publishTime>
+    </File>
+    <File Include="Bootstrap3/js/offcanvas.js">
+      <publishTime>01/20/2016 14:07:02</publishTime>
+    </File>
+    <File Include="Bootstrap3/jumbotron.html">
+      <publishTime>01/20/2016 14:06:52</publishTime>
+    </File>
+    <File Include="Bootstrap3/modal.html">
+      <publishTime>01/20/2016 14:06:52</publishTime>
+    </File>
+    <File Include="Bootstrap3/navbar.html">
+      <publishTime>01/20/2016 14:06:52</publishTime>
+    </File>
+    <File Include="Bootstrap3/offcanvas.html">
+      <publishTime>01/20/2016 14:06:52</publishTime>
+    </File>
+    <File Include="Bootstrap3/tabs.html">
+      <publishTime>01/20/2016 14:06:52</publishTime>
+    </File>
+    <File Include="Css/main.css">
+      <publishTime>02/24/2016 00:44:55</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/14/2016 01:34:02</publishTime>
+    </File>
+    <File Include="Images/icon_audio.png">
+      <publishTime>02/04/2016 10:36:18</publishTime>
+    </File>
+    <File Include="Images/icon_gps.png">
+      <publishTime>02/04/2016 10:37:50</publishTime>
+    </File>
+    <File Include="Images/icon_photo.jpg">
+      <publishTime>01/30/2016 03:09:32</publishTime>
+    </File>
+    <File Include="Images/icon_txt.png">
+      <publishTime>02/04/2016 10:37:02</publishTime>
+    </File>
+    <File Include="Images/icon_video.jpg">
+      <publishTime>01/29/2016 23:10:50</publishTime>
+    </File>
+    <File Include="Images/loading_spinner.gif">
+      <publishTime>01/20/2016 17:22:34</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>01/28/2016 06:26:30</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/14/2016 02:04:30</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>02/24/2016 06:55:06</publishTime>
+    </File>
+    <File Include="Scripts/cloud.js">
+      <publishTime>02/24/2016 04:37:37</publishTime>
+    </File>
+    <File Include="Scripts/dept.js">
+      <publishTime>02/24/2016 01:41:27</publishTime>
+    </File>
+    <File Include="Scripts/devices.js">
+      <publishTime>02/23/2016 06:36:10</publishTime>
+    </File>
+    <File Include="Scripts/global.js">
+      <publishTime>01/20/2016 14:03:06</publishTime>
+    </File>
+    <File Include="Scripts/login.js">
+      <publishTime>01/28/2016 06:42:44</publishTime>
+    </File>
+    <File Include="Scripts/search.js">
+      <publishTime>02/24/2016 06:42:04</publishTime>
+    </File>
+    <File Include="Scripts/server.js">
+      <publishTime>02/24/2016 03:47:15</publishTime>
+    </File>
+    <File Include="Scripts/workstation.js">
+      <publishTime>02/24/2016 03:49:43</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>02/23/2016 06:42:02</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>02/04/2016 21:41:50</publishTime>
+    </File>
+    <File Include="Views/Office/Depts.cshtml">
+      <publishTime>02/24/2016 00:44:47</publishTime>
+    </File>
+    <File Include="Views/Office/Workstations.cshtml">
+      <publishTime>02/24/2016 04:39:30</publishTime>
+    </File>
+    <File Include="Views/Permissions/Pwd.cshtml">
+      <publishTime>01/30/2016 07:36:14</publishTime>
+    </File>
+    <File Include="Views/Permissions/Rights.cshtml">
+      <publishTime>01/30/2016 07:15:42</publishTime>
+    </File>
+    <File Include="Views/Permissions/Users.cshtml">
+      <publishTime>01/30/2016 07:31:50</publishTime>
+    </File>
+    <File Include="Views/Reports/Downloads.cshtml">
+      <publishTime>01/30/2016 06:29:38</publishTime>
+    </File>
+    <File Include="Views/Reports/ImpLevel.cshtml">
+      <publishTime>01/30/2016 05:50:56</publishTime>
+    </File>
+    <File Include="Views/Reports/PoliceStats.cshtml">
+      <publishTime>01/30/2016 06:19:50</publishTime>
+    </File>
+    <File Include="Views/Reports/SysLog.cshtml">
+      <publishTime>01/30/2016 07:30:18</publishTime>
+    </File>
+    <File Include="Views/Reports/TimePeriod.cshtml">
+      <publishTime>01/30/2016 05:58:14</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>02/14/2016 01:34:02</publishTime>
+    </File>
+    <File Include="Views/Shared/Header.cshtml">
+      <publishTime>02/24/2016 03:20:02</publishTime>
+    </File>
+    <File Include="Views/Shared/HeaderLogin.cshtml">
+      <publishTime>01/28/2016 07:09:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>02/05/2016 23:23:40</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutLogin.cshtml">
+      <publishTime>01/28/2016 01:25:34</publishTime>
+    </File>
+    <File Include="Views/Storage/CloudSpace.cshtml">
+      <publishTime>02/24/2016 04:38:54</publishTime>
+    </File>
+    <File Include="Views/Storage/DiskSpace.cshtml">
+      <publishTime>01/30/2016 07:51:46</publishTime>
+    </File>
+    <File Include="Views/Storage/Servers.cshtml">
+      <publishTime>02/24/2016 04:39:17</publishTime>
+    </File>
+    <File Include="Views/Videos/Devices.cshtml">
+      <publishTime>02/23/2016 06:22:51</publishTime>
+    </File>
+    <File Include="Views/Videos/DevicesTable.cshtml">
+      <publishTime>02/23/2016 06:18:34</publishTime>
+    </File>
+    <File Include="Views/Videos/FileUpload.cshtml">
+      <publishTime>01/30/2016 03:59:34</publishTime>
+    </File>
+    <File Include="Views/Videos/PreviewParams.cshtml">
+      <publishTime>01/30/2016 05:06:28</publishTime>
+    </File>
+    <File Include="Views/Videos/Search.cshtml">
+      <publishTime>02/24/2016 06:50:41</publishTime>
+    </File>
+    <File Include="Views/Videos/UploadSet.cshtml">
+      <publishTime>01/30/2016 04:16:00</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>02/14/2016 01:34:02</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>02/14/2016 01:34:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/24/2016 05:01:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
